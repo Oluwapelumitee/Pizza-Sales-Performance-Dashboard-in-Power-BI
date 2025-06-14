@@ -35,16 +35,15 @@ A dynamic Power BI dashboard analyzing pizza sales data from Jan–Dec 2015. Inc
 ---
 
 ## 📂 Project Files
-- `Pizza_Sales_Project.pbix` – Power BI dashboard file
-- `Images/` – Screenshots of the dashboard
+- Power BI dashboard file
+- Screenshots of the dashboard
 - `README.md` – Project documentation
 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Page 1](Images/Dashboard_Page1.png)  
-![Dashboard Page 2](Images/Dashboard_Page2.png)
-
+Dashboard page 1
+Dashboard page 2
 ---
 
 ## 💡 Purpose
